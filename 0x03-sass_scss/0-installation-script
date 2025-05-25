@@ -1,0 +1,6 @@
+SASS Installation Script:
+
+1. Created a new project folder named 0x03-sass_scss inside the alx-intermediate-frontend repository.
+
+2. Installed Sass using NPM:
+   - npm install sass@1.73.4
