@@ -32,7 +32,7 @@ This repo contains learning projects and tasks focused on enhancing frontend dev
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/alx-intermediate-frontend.git
+   git clone https://github.com/redu-1995/alx-intermediate-frontend.git
    cd alx-intermediate-frontend
    ```
 
